@@ -1,4 +1,4 @@
-# DNS(Smain,Name,System)とは  
+# DNS(Dmain,Name,System)とは  
 ・IPアドレスをドメイン名に変換する仕組みのこと  
 ex) github.com <-人間に読みやすい、覚えやすい名前（ドメイン表記）  
 一方インターネット上の住所はIPアドレスでも表される  
